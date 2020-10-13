@@ -43,3 +43,4 @@ transmitted back to the raspberry pi that is itself connected to the AWS Server.
 Raspberry Pi will not only trigger the buzzer on receiving threat messages ,but also
 transmit an appropriate alert (and its details) to the mobile application of the
 concerned person via AWS Server.
+![alt text](https://github.com/25abhishek/Elderly-Aid-Kit/blob/main/Images/implementation%20flow.png)
