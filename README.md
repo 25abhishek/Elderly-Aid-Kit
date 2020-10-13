@@ -1,10 +1,10 @@
 # Elderly-Aid-Kit
 
 ## Description
-Develop a technology-based solution for Kids, Senior citizens, especially abled
+Developed a technology-based solution for Kids, Senior citizens, especially abled
 individual on any one who need supervision which can alarm the concerned person in
 case person who need supervision is crossing a specified boundary for eg 10 meters
-outside a specified boundary. You should also think about more innovative ideas to see
+outside a specified boundary. We also think about more innovative ideas to see
 what more value you can bring to these individuals for eg : devices which can apart
 from keep tracking an individual can also collect heath parameters such as heart rate
 and alert concerned person in case of any issue. This health data can be further used for
